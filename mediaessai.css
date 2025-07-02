@@ -1,0 +1,12 @@
+body {
+background-image: url("mima.jpg");
+background-size: 1000px;
+}
+.para1 {text-align:center ;
+text-decoration: underline;
+word-spacing: 10px;
+text-transform: capitalize;
+scroll-behavior: smooth;
+}
+
+
